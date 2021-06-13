@@ -259,3 +259,20 @@ h3 {
 #card {
     padding: 5% 5% 8% 5%;
 }
+.footer-container {
+    text-align: center;
+    text-decoration: none;
+    padding: 4%;
+}
+
+.footer-icon {
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    font-size: 2rem;
+}
+
+.footer-icon:hover {
+    color: #ffacb7;
+}
